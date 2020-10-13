@@ -1,0 +1,101 @@
+﻿  AssemblerLabs1.cpp
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(8,5): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(10,9): error C2065: mov: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(10,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(10,13): error C2065: eax: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(11,9): error C2065: mov: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(11,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "edx"
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(11,13): error C2065: edx: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(12,9): error C2065: mov: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(12,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(12,13): error C2065: ebx: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(13,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(13,9): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(13,13): error C2065: ebx: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(14,9): error C2065: mov: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(14,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "buf"
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(14,18): error C2065: eax: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(15,9): error C2065: mov: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(15,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(15,13): error C2065: eax: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(16,9): error C2065: mov: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(16,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(16,13): error C2065: ebx: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(17,9): error C2065: mul: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(17,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(17,13): error C2065: ebx: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(18,9): error C2065: mov: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(18,14): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "edx"
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(18,14): error C2065: edx: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(19,9): error C2065: sub: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(19,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(19,13): error C2065: eax: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(19,18): error C2065: edx: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(20,9): error C2065: mov: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(20,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "buf"
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(20,18): error C2065: eax: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(21,9): error C2065: mov: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(21,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(21,13): error C2065: eax: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(22,9): error C2065: mov: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(22,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(22,13): error C2065: ebx: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(23,9): error C2065: mul: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(23,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(23,13): error C2065: ebx: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(24,9): error C2065: mov: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(24,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(24,13): error C2065: ebx: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(25,9): error C2065: sub: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(25,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(25,13): error C2065: eax: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(25,18): error C2065: ebx: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(26,9): error C2065: mov: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(26,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "buf"
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(26,18): error C2065: eax: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(27,9): error C2065: mov: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(27,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(27,13): error C2065: eax: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(28,9): error C2065: mov: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(28,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(28,13): error C2065: ebx: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(29,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(29,9): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(29,13): error C2065: ebx: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(30,9): error C2065: mov: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(30,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(30,13): error C2065: ebx: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(30,18): error C2065: eax: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(31,9): error C2065: mov: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(31,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(31,13): error C2065: eax: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(32,9): error C2065: mov: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(32,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "edx"
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(32,13): error C2065: edx: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(33,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(33,9): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(33,13): error C2065: ebx: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(34,9): error C2065: mov: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(34,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "buf"
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(34,18): error C2065: eax: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(43,5): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(44,9): error C2065: mov: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(44,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ax"
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(44,13): error C2065: ax: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(44,17): error C3688: недопустимый литеральный суффикс "b"; не удалось найти литеральный оператор или шаблон литерального оператора "operator ""b"
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(45,9): error C2065: mov: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(45,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "bh"
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(45,13): error C2065: bh: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(45,17): error C2065: ah: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(46,9): error C2065: mov: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(46,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ah"
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(46,13): error C2065: ah: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(46,17): error C2065: al: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(47,9): error C2065: mov: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(47,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "al"
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(47,13): error C2065: al: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(47,17): error C2065: bh: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(48,9): error C2065: shr: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(48,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ax"
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(48,13): error C2065: ax: необъявленный идентификатор
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs1\AssemblerLabs1.cpp(49,13): error C2065: ax: необъявленный идентификатор
