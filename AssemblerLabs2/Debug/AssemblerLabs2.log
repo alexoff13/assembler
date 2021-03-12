@@ -1,4 +1,4 @@
 ﻿  AssemblerLabs2.cpp
 C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs2\AssemblerLabs2.cpp(13,5): warning C4102: lower: неиспользованная метка
-C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs2\AssemblerLabs2.cpp(23,5): warning C4102: lower2: неиспользованная метка
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLabs2\AssemblerLabs2.cpp(25,5): warning C4102: lower2: неиспользованная метка
   AssemblerLabs2.vcxproj -> C:\Users\davyd\git\AssemblerLabs1\Debug\AssemblerLabs2.exe

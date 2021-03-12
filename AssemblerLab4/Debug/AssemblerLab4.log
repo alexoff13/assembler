@@ -1,0 +1,9 @@
+﻿  AssemblerLab4.cpp
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLab4\AssemblerLab4.cpp(10,9): warning C4163: rdtsc: недоступна в качестве подставляемой функции
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLab4\AssemblerLab4.cpp(21,24): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLab4\AssemblerLab4.cpp(43,13): warning C4244: =: преобразование "clock_t" в "float", возможна потеря данных
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLab4\AssemblerLab4.cpp(61,12): warning C4244: =: преобразование "clock_t" в "float", возможна потеря данных
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLab4\AssemblerLab4.cpp(83,13): warning C4244: =: преобразование "clock_t" в "float", возможна потеря данных
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLab4\AssemblerLab4.cpp(341,13): warning C4244: =: преобразование "clock_t" в "float", возможна потеря данных
+C:\Users\davyd\git\AssemblerLabs1\AssemblerLab4\AssemblerLab4.cpp(14): warning C4717: rdtsc: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+  AssemblerLab4.vcxproj -> C:\Users\davyd\git\AssemblerLabs1\Debug\AssemblerLab4.exe

@@ -39,7 +39,7 @@ static void Calculate() {
 }
 
 static void Inverse() {
-
+    unsigned short y;
     _asm {
         mov ax, 1110111101010101b;
         mov bh, ah;
@@ -47,14 +47,20 @@ static void Inverse() {
         mov al, bh;
         shr ax, 5;
         not ax;
+        mov y, ax;
     }
+    for (int i = 0; i < 16; i++)
+        std::cout << (y & (256 >> i + 1) ? '1' : '0');
+    std::cout << std::endl;
 }
 
 
 
 int main()
 {
-    //Calculate();
+    std::cout << "First:" << std::endl;
+    Calculate();
+    std::cout << "Second:" << std::endl;
     Inverse();
     return 0;
 }
